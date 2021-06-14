@@ -15,7 +15,7 @@
 </a>
 
 <!-- status codes -->
-<a align="center" href="https://arshiamidos.github.io">
+<a align="center" href="https://ArdeshirV.github.io">
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ArdeshirV&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
@@ -23,7 +23,6 @@
 
 <!-- programming langs i work-->
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="25px" height="25px"/>
@@ -32,12 +31,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25px" height="25px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
