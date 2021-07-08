@@ -3,24 +3,24 @@
     <a href="http://www.free-iqtest.net" title="IQ Test for Free"><img src="http://www.free-iqtest.net/images/badges2/l129.gif" width="200" height="100" alt="IQ Test for Free" border="0"></a>
 </p>
 
-<!-- first row -->
+<!-- first row https://ArdeshirV.github.io -->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<a href="https://ArdeshirV.github.io">
+<a href="https://github.com/ArdeshirV">
     ArdeshirV
 </a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
 
 <!-- thropy -->
-<a href="https://ArdeshirV.github.io">
+<a href="https://github.com/ArdeshirV">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=7&theme=onedark"/>
     </p>
 </a>
 
 <!-- status codes -->
-<a align="center" href="https://ArdeshirV.github.io">
+<a align="center" href="https://github.com/ArdeshirV">
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ArdeshirV&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
