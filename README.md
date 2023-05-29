@@ -2,16 +2,6 @@
 <p align="center">
     <a href="http://www.free-iqtest.net" title="IQ Test for Free"><img src="http://www.free-iqtest.net/images/badges2/l129.gif" width="200" height="100" alt="IQ Test for Free" border="0"></a>
 </p>  -->
-
-<!-- first row https://ArdeshirV.github.io -->
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<a href="https://github.com/ArdeshirV">
-    ArdeshirV
-</a>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p>
-
 <!-- thropy -->
 <a href="https://github.com/ArdeshirV">
     <p align="center">
@@ -26,7 +16,7 @@
     </p>
 </a>
 
-<!-- programming langs i work-->
+<!-- programming langs i like-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="25px" height="25px"/>
