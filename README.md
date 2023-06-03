@@ -5,10 +5,10 @@
 <!-- status codes -->
 <a align="center" href="https://github.com/ArdeshirV">
     <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=8&theme=onedark" />
+        <br/>
         <img src="https://github-readme-stats.vercel.app/api?username=ArdeshirV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="my github stats" width="420"  height="170" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="170">
-        <br/>
-        <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=8&theme=onedark" />
         <!-- Programming languages that I love -->
         <p alighn="center" >
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
@@ -37,7 +37,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="25px" height="25px"/>
         </p>
-        <br/>
-        <figure><embed src="https://wakatime.com/share/@ArdeshirV/e3adb0b8-2cc9-457e-9b85-1f10bcfb3c8e.svg"></embed></figure>
+        <!-- <br/><figure><embed src="https://wakatime.com/share/@ArdeshirV/e3adb0b8-2cc9-457e-9b85-1f10bcfb3c8e.svg"></embed></figure> -->
     </p>
 </a>
