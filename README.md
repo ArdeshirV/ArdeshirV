@@ -14,6 +14,9 @@
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ArdeshirV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="165">
     </p>
+    <p align="center">
+        [![ArdeshirV's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArdeshirV&layout=compact)](https://github.com/ArdeshirV)
+    </p>
 </a>
 
 <!-- programming langs i like-->
