@@ -1,7 +1,7 @@
-<!--
-<p align="center">
+<!-- <p align="center">
     <a href="http://www.free-iqtest.net" title="IQ Test for Free"><img src="http://www.free-iqtest.net/images/badges2/l129.gif" width="200" height="100" alt="IQ Test for Free" border="0"></a>
-</p>  -->
+</p> -->
+<p align="center">I am assertive commander <a href="https://www.xpersonalitytest.com/entj/entj-a">ENTJ-A</a></p>
 <!-- status codes -->
 <a align="center" href="https://github.com/ArdeshirV">
     <p align="center">
