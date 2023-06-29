@@ -11,10 +11,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="170">
         <!-- Programming languages that I love -->
         <p alighn="center" >
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="25px" height="25px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="25px" height="25px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="25px" height="25px"/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="25px" height="25px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="25px" height="25px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" width="25px" height="25px"/>
