@@ -7,8 +7,8 @@
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=8&theme=onedark" />
         <br/>
-        <img src="https://github-profile-trophy.vercel.app/api?username=ArdeshirV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="my github stats" width="420"  height="170" />
-        <img src="https://github-profile-trophy.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="170">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArdeshirV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="my github stats" width="420"  height="170" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="170">
         <!-- Programming languages that I love -->
         <p alighn="center" >
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="25px" height="25px"/>
