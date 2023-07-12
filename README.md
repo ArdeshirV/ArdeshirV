@@ -5,10 +5,10 @@
 <!-- status codes -->
 <a align="center" href="https://github.com/ArdeshirV">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=8&theme=onedark" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=8&theme=onedark" width="600" />
         <br/>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArdeshirV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="my github stats" width="420"  height="170" />
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="170">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArdeshirV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="my github stats" height="130"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="130" />
         <!-- Programming languages that I love -->
         <p alighn="center" >
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="25px" height="25px"/>
