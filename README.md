@@ -5,10 +5,10 @@
 <!-- status codes -->
 <a align="center" href="https://github.com/ArdeshirV">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=8&theme=onedark" width="600" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=8&theme=onedark" width="740" />
         <br/>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArdeshirV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="my github stats" height="130"/>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="130" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArdeshirV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="my github stats" height="160"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="160" />
         <!-- Programming languages that I love -->
         <p alighn="center" >
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="25px" height="25px"/>
@@ -35,7 +35,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="25px" height="25px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25px" height="25px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="25px" height="25px"/>
         </p>
         <!-- <br/><figure><embed src="https://wakatime.com/share/@ArdeshirV/e3adb0b8-2cc9-457e-9b85-1f10bcfb3c8e.svg"></embed></figure> -->
     </p>
