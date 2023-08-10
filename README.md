@@ -5,12 +5,16 @@
 <!-- status codes -->
 <a align="center" href="https://github.com/ArdeshirV">
     <p align="center">
+        <a align="center" href="https://profile.codersrank.io/user/ardeshirv">
+            <img src="https://raw.githubusercontent.com/ArdeshirV/ArdeshirV/main/img/Ranking-1.png" />
+        </a>
+        <br/>
         <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=8&theme=onedark" width="740" />
         <br/>
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArdeshirV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="my github stats" height="160"/>
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="160" />
         <!-- Programming languages that I love -->
-        <p alighn="center" >
+        <p align="center" >
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="25px" height="25px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25px" height="25px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="25px" height="25px"/>
