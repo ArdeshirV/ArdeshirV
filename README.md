@@ -5,7 +5,7 @@
 <!-- status codes -->
 <a align="center" href="https://github.com/ArdeshirV">
     <p align="center">
-        <a align="center" href="https://profile.codersrank.io/user/ardeshirv">
+        <a align="center" target="_blank" href="https://profile.codersrank.io/user/ardeshirv">
             <img src="https://raw.githubusercontent.com/ArdeshirV/ArdeshirV/main/img/Ranking-1.png" />
         </a>
         <br/>
