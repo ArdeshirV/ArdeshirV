@@ -1,4 +1,4 @@
-<!-- <p align="center">
+i<!-- <p align="center">
     <a href="http://www.free-iqtest.net" title="IQ Test for Free"><img src="http://www.free-iqtest.net/images/badges2/l129.gif" width="200" height="100" alt="IQ Test for Free" border="0"></a>
 </p> -->
 <p align="center"><a href="https://www.xpersonalitytest.com/entj/entj-a">Assertive Commander ENTJ-A</a></p>
@@ -26,7 +26,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40px" height="40px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40px" height="40px"/>
-            <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40px" height="40px"/> -->
+            <!-- <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40px" height="40px"/> -->
             <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40px" height="40px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40px" height="40px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40px" height="40px"/>
