@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<!-- <p align="center" style="display:none;" hidden>
     <a href="http://www.free-iqtest.net" title="IQ Test for Free"><img src="http://www.free-iqtest.net/images/badges2/l129.gif" width="200" height="100" alt="IQ Test for Free" border="0"></a>
 </p> -->
 <p align="center"><a href="https://www.xpersonalitytest.com/entj/entj-a">Assertive Commander ENTJ-A</a></p>
@@ -9,7 +9,7 @@
             <img src="https://raw.githubusercontent.com/ArdeshirV/ArdeshirV/main/img/Ranking-1.png" width="100%" />
         </a>
         <br/>
-        <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=9&theme=onedark" width="100%" />
+        <!-- <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=9&theme=onedark" width="100%" />  -->
         <br/>
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArdeshirV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="my github stats" height="120" />
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="120" />
