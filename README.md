@@ -16,7 +16,7 @@
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArdeshirV&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="my github stats" height="120" />
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=dark&include_all_commits=true&count_private=true" alt="languages" height="120" />
         <!-- Programming languages that I love -->
-        <p align="center" width="100%" >
+        <div align="center" width="100%" >
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40px" height="40px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px" height="40px"/>
            <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40px" height="40px"/>
@@ -45,7 +45,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40px" height="40px"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40px" height="40px"/>
             <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40px" height="40px"/> -->
-        </p>
+        </div>
         <!-- <br/><figure><embed src="https://wakatime.com/share/@ArdeshirV/e3adb0b8-2cc9-457e-9b85-1f10bcfb3c8e.svg"></embed></figure> -->
     </p>
 </a>
