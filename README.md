@@ -6,13 +6,13 @@
 <a align="center" href="https://github.com/ArdeshirV">
     <p align="center">
         <a align="center" target="_blank" href="https://profile.codersrank.io/user/ardeshirv">
-            <img src="https://raw.githubusercontent.com/ArdeshirV/ArdeshirV/main/img/Ranking-1.png" width="100%" />
+            <img src="https://raw.githubusercontent.com/ArdeshirV/ArdeshirV/main/img/Ranking-1.png" height="130"  />
         </a>
         <br/>
         <!--
         <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=9&theme=onedark" width="100%" />
-        -->
         <br/>
+        -->
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArdeshirV&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="my github stats" height="120" />
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=dark&include_all_commits=true&count_private=true" alt="languages" height="120" />
         <!-- Programming languages that I love -->
