@@ -13,8 +13,8 @@
         <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=9&theme=onedark" width="100%" />
         -->
         <br/>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArdeshirV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="my github stats" height="120" />
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="120" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArdeshirV&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="my github stats" height="120" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=dark&include_all_commits=true&count_private=true" alt="languages" height="120" />
         <!-- Programming languages that I love -->
         <p align="center" width="100%" >
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40px" height="40px"/>
