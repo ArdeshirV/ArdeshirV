@@ -1,18 +1,20 @@
-<!-- <p align="center" style="display:none;" hidden>
+<!--
+<p align="center" style="display:none;" hidden>
     <a href="http://www.free-iqtest.net" title="IQ Test for Free"><img src="http://www.free-iqtest.net/images/badges2/l129.gif" width="200" height="100" alt="IQ Test for Free" border="0"></a>
-</p> -->
+</p>
+-->
 <p align="center"><a href="https://www.xpersonalitytest.com/entj/entj-a">Assertive Commander ENTJ-A</a></p>
-<!-- status codes -->
 <a align="center" href="https://github.com/ArdeshirV">
     <p align="center">
         <a align="center" target="_blank" href="https://profile.codersrank.io/user/ardeshirv">
-            <img src="https://raw.githubusercontent.com/ArdeshirV/ArdeshirV/main/img/Ranking-1.png" height="163"  />
+            <img src="https://raw.githubusercontent.com/ArdeshirV/ArdeshirV/main/img/Ranking-1.png" width="100%"  />
         </a>
-        <br/>
+<img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&theme=onedark&title=MultiLanguage,Repositories,Commit,PullRequest,Stars,Followers&column=6&include_all_commits=true&count_private=true" width="100%" />
         <!--
-        <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=9&theme=onedark" width="100%" />
         <br/>
+        <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=9&theme=onedark&include_all_commits=true&count_private=true" width="80%" >
         -->
+        <br/>
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArdeshirV&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="my github stats" height="150" />
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=dark&include_all_commits=true&count_private=true" alt="languages" height="150" />
         <!-- Programming languages that I love -->
@@ -48,4 +50,4 @@
         </div>
         <!-- <br/><figure><embed src="https://wakatime.com/share/@ArdeshirV/e3adb0b8-2cc9-457e-9b85-1f10bcfb3c8e.svg"></embed></figure> -->
     </p>
-</a>
+<a/>
