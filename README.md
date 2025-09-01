@@ -9,11 +9,7 @@
         <a align="center" target="_blank" href="https://profile.codersrank.io/user/ardeshirv">
             <img src="https://raw.githubusercontent.com/ArdeshirV/ArdeshirV/main/img/Ranking-1.png" width="100%"  />
         </a>
-<img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&theme=onedark&title=MultiLanguage,Repositories,Commit,PullRequest,Stars,Followers&column=6&include_all_commits=true&count_private=true" width="100%" />
-        <!--
-        <br/>
-        <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&column=9&theme=onedark&include_all_commits=true&count_private=true" width="80%" >
-        -->
+<img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&theme=onedark&title=MultiLanguage,Repositories,Commit,PullRequest,Stars,Followers,Experience&column=7&include_all_commits=true&count_private=true" width="100%" />
         <br/>
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArdeshirV&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="my github stats" height="150" />
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArdeshirV&layout=compact&theme=dark&include_all_commits=true&count_private=true" alt="languages" height="150" />
