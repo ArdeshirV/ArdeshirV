@@ -15,9 +15,11 @@
 </p>
 
 <!-- Trophy and Stats: If public instances are unstable, it is recommended to remove them or deploy them yourself. Below are official example links, which may occasionally become invalid -->
+<!--
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ArdeshirV&theme=onedark&title=MultiLanguage,Repositories,Commit,PullRequest,Stars,Followers&column=6&include_all_commits=true&count_private=true" width="100%" alt="Trophies" />
 </p>
+-->
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ArdeshirV&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
